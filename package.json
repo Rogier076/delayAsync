@@ -1,0 +1,29 @@
+{
+  "name": "delay-async",
+  "version": "1.0.0",
+  "description": "Simple promisified timeout (delay)",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rogier076/delayAsync.git"
+  },
+  "keywords": [
+    "timeout",
+    "promise",
+    "async",
+    "await",
+    "delay"
+  ],
+  "author": "Rogier van Poppel",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/Rogier076/delayAsync/issues"
+  },
+  "homepage": "https://github.com/Rogier076/delayAsync#readme",
+  "dependencies": {
+    "typescipt": "^1.0.0"
+  }
+}
