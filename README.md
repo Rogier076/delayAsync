@@ -5,7 +5,7 @@ Simple delay promise
 \*\*Usage:
 
 ```
-import {delayAsync} from 'delay-async';
+import {delayAsync} from 'async-timeout-delay';
 
 const returnValue = "Whatever makes you happy";
 
