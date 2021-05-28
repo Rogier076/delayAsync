@@ -1,0 +1,2 @@
+# delayAsync
+Simple delay promise
