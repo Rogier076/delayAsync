@@ -1,5 +1,5 @@
 {
-  "name": "delay-async",
+  "name": "delayasync",
   "version": "1.0.0",
   "description": "Simple promisified timeout (delay)",
   "main": "build/index.js",
